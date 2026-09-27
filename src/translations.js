@@ -151,7 +151,7 @@ const translations = {
           id: 'final-trajecte',
           title: 'Final de trajecte?',
           paragraphs: [
-            `Mirant enrere, aquest viatge ha estat farcit d'emocions, sorpreses i coneixences. Vam estirar del fil d'un capdell enredat descobert per casualitat que ens va dur a voler indagar què hi havia darrere d'aquest besoncle del que no en sabíem gairebé res. Tot i que segurament no hem desenredat totalment el fil, del que sí estem convençuts, és que la figura de Martí Casanovas i família és digne de ser reconeguda i recordada dins de la memòria històrica del nostre país.`,
+            `Mirant enrere, aquest viatge ha estat farcit d’emocions, sorpreses i coneixences. Vam estirar del fil d’un capdell enredat descobert per casualitat que ens va dur a voler indagar què hi havia darrere d’aquest besoncle de qui no en sabíem gairebé res. Tot i que segurament no hem desenredat totalment el fil, sí estem convençuts que la figura de Martí Casanovas i família és digna de ser reconeguda i recordada dins la memòria històrica del nostre país.`,
           ],
         },
       ],
@@ -479,7 +479,7 @@ const translations = {
           id: 'final-trajecte',
           title: '¿Final de trayecto?',
           paragraphs: [
-            `Mirando atrás, este viaje ha estado lleno de emociones, sorpresas y descubrimientos. Tiramos del hilo de un ovillo enredado, descubierto por casualidad, que nos llevó a querer indagar qué había detrás de este tío bisabuelo del que apenas sabíamos nada. Aunque seguramente no hemos desenredado del todo el hilo, de lo que sí estamos convencidos es de que la figura de Martí Casanovas y su familia es digna de ser reconocida y recordada dentro de la memoria histórica de nuestro país.`,
+            `Mirando atrás, este viaje ha estado lleno de emociones, sorpresas y encuentros. Tiramos del hilo de un ovillo enredado, descubierto por casualidad, que nos llevó a querer indagar qué había detrás de este tío bisabuelo del que no sabíamos casi nada. Aunque seguramente no hemos desenredado del todo el hilo, sí estamos convencidos de que la figura de Martí Casanovas y su familia es digna de ser reconocida y recordada dentro de la memoria histórica de nuestro país.`,
           ],
         },
       ],
