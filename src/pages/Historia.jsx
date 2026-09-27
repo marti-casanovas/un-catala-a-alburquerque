@@ -152,13 +152,13 @@ function Historia() {
                   {chapter.intro && (
                     <p>
                       {chapter.intro}
-                      <button
+                      <span className="book-mention">“<button
                         type="button"
                         className="book-link"
                         onClick={() => scrollToChapter(chapter.bookMention.targetId)}
                       >
                         {chapter.bookMention.linkText}
-                      </button>
+                      </button>”</span>
                       {chapter.bookMention.after}
                     </p>
                   )}
