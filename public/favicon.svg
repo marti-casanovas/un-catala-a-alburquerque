@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <rect width="24" height="24" rx="5" fill="#fbf8f2"/>
+  <path
+    fill="#8c2f1f"
+    d="M12 3c-3.5 0-6.5 1-9 3v13c2.5-2 5.5-3 9-3s6.5 1 9 3V6c-2.5-2-5.5-3-9-3z"
+    opacity="0.15"
+  />
+  <path
+    fill="none"
+    stroke="#8c2f1f"
+    stroke-width="1.4"
+    d="M12 5.2v13.6M3 6c2.5-2 5.5-3 9-3s6.5 1 9 3v13c-2.5-2-5.5-3-9-3s-6.5 1-9 3z"
+  />
+</svg>
